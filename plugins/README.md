@@ -1,6 +1,7 @@
 # Mathematical Morphology with MorphoLibJ
 
 A collection of additional plugins for demonstrating some features of the MorphoLibJ library.
+Note that some of these plugins may be included in a future version of MorphoLibJ.
 
 ### Installation
 
