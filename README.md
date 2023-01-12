@@ -5,6 +5,6 @@ Corresponds to NeuBIAS Academy @home webinar given on Thursday, April 30th, 2020
 http://eubias.org/NEUBIAS/training-schools/neubias-academy-home/
 
 Content of the repository:
-* plugins: additionnal plugins used for interactive demonstration. They appear in "MorphoLibJ Plus"
-* sampleImages: sample images used as illustration and during demonstration 
-* slides: the slides of the presentation (!)
+* [plugins](plugins/README.md): additionnal plugins used for interactive demonstration. They appear in "MorphoLibJ Plus"
+* [sampleImages](sampleImages/README.md): sample images used as illustration and during demonstration 
+* [slides](slides): the slides of the presentation (!)
